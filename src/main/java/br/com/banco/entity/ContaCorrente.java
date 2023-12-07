@@ -40,7 +40,7 @@ public class ContaCorrente {
     }
 
     public ContaCorrente() {
-        this.saldo = 0.0; // Inicializando o saldo com 0.0 por padrão
+        this.saldo = 0.0;
     }
 
     public double getValorDoSaque() {
