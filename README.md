@@ -32,4 +32,4 @@ Transferir
 * (localhost:8080/api/v1/transferir): PATCH
 
 Deletar
-(localhost:8080/api/v1/deletarconta/{id}): DELETE
+* (localhost:8080/api/v1/deletarconta/{id}): DELETE
